@@ -17,7 +17,8 @@ console.log(firstname,lastname);
 var marks = {
     zeaan : 100,
     rachit : 98,
-    akash : 95
+    akash : 95,
+    XYZ : 85
 }
 console.log(marks);
 
