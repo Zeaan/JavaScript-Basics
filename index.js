@@ -1,3 +1,4 @@
+//This does not cover all the JavaScript commands. This is just meant to be a basic introduction to JavaScript.
 //Javascript console API
 console.log("Hello World");
 console.warn("This is a warning");
